@@ -1,9 +1,11 @@
 Hi! I am Afloofe, I do random stuff. 
 
 Currently learning:
-- Rust🦀
-- C/C++
-
-Know:
+- 🇨
+  
+Re-learning:
 - Python 🐍
+  
+Know:
+- Rust🦀
 

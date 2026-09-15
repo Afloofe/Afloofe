@@ -4,8 +4,8 @@ Currently learning:
 - 🇨
   
 Re-learning:
-- Python 🐍
+- Rust 🦀
   
 Know:
-- Rust🦀
+- Python 🐍
 
